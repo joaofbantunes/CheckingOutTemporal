@@ -1,0 +1,5 @@
+POST http://localhost:6061/stuff/{{$uuid}}
+
+###
+
+POST http://localhost:6061/stuff/70b85180-17b7-47fc-87d3-70c2ef0a8f0d
